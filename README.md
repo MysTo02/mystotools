@@ -25,5 +25,7 @@ Date: - 16 January 2024
 Author: MysTo
 
 Installation:
+
 -Download The Release,
+
 -Read the README.txt
